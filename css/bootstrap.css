@@ -1984,6 +1984,7 @@ pre code {
     margin-left: auto
 }
 
+
 .container-fluid {
     padding-right: 15px;
     padding-left: 15px;
@@ -2296,7 +2297,8 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 50%
+        width: 50%;
+        padding-right: 20px;
     }
     .col-sm-5 {
         width: 41.66666667%
