@@ -12,6 +12,10 @@ body {
     min-width: 310px;
 }
 
+.header-margin {
+    margin: 0;
+}
+
 p {
     font-size: 1.3em;
 }
@@ -724,7 +728,7 @@ a {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1280px;
 }
 
 .hero-bloc-text {
@@ -903,10 +907,6 @@ h4 {
 }
 
 @media (max-width: 1024px) {
-    .bloc {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
     .bloc-tile-3.full-width-bloc .container,
