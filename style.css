@@ -76,7 +76,11 @@ img + span {
 a {
     font-size: 1.2em;
     scroll-behavior: smooth;
-} 
+}
+
+figcaption {
+    color: #333333;
+}
 
 a,
 button {
