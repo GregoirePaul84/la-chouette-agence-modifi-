@@ -12,6 +12,11 @@ body {
     min-width: 310px;
 }
 
+.logo-header {
+    position: relative;
+    bottom: 5px;
+}
+
 .header-margin {
     margin: 0;
 }
