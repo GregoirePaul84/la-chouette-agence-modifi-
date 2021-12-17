@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://github.com/GregoirePaul84/la-chouette-agence-modifi-/blob/main/sitemap.xml
