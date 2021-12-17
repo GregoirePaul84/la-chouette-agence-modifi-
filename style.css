@@ -78,6 +78,10 @@ a {
     scroll-behavior: smooth;
 }
 
+.nav-hover:hover {
+    color: #f3976c;
+}
+
 figcaption {
     color: #333333;
 }
